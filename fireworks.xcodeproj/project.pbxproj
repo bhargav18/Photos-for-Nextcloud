@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		375272512AD0E197001F2810 /* PhotoLibraryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375272502AD0E197001F2810 /* PhotoLibraryService.swift */; };
 		3782B6772ACE123800A10DAF /* fireworksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3782B6762ACE123800A10DAF /* fireworksApp.swift */; };
 		3782B6792ACE123800A10DAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3782B6782ACE123800A10DAF /* ContentView.swift */; };
 		3782B67B2ACE123A00A10DAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3782B67A2ACE123A00A10DAF /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		375272502AD0E197001F2810 /* PhotoLibraryService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryService.swift; sourceTree = "<group>"; };
 		3782B6732ACE123800A10DAF /* fireworks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fireworks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3782B6762ACE123800A10DAF /* fireworksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fireworksApp.swift; sourceTree = "<group>"; };
 		3782B6782ACE123800A10DAF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				3782B6782ACE123800A10DAF /* ContentView.swift */,
 				3782B67A2ACE123A00A10DAF /* Assets.xcassets */,
 				3782B67C2ACE123A00A10DAF /* Preview Content */,
+				375272502AD0E197001F2810 /* PhotoLibraryService.swift */,
 			);
 			path = fireworks;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				375272512AD0E197001F2810 /* PhotoLibraryService.swift in Sources */,
 				3782B6792ACE123800A10DAF /* ContentView.swift in Sources */,
 				3782B6772ACE123800A10DAF /* fireworksApp.swift in Sources */,
 			);
@@ -417,6 +421,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"fireworks/Preview Content\"";
+				DEVELOPMENT_TEAM = 39N94W6FFT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -445,6 +450,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"fireworks/Preview Content\"";
+				DEVELOPMENT_TEAM = 39N94W6FFT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
